@@ -1,0 +1,862 @@
+[
+  {
+    "id": "artwork-1",
+    "title": "Cri",
+    "medium": "Wood",
+    "image": "/gallery/bois/Cri.jpg",
+    "description": "Wood sculpture"
+  },
+  {
+    "id": "artwork-2",
+    "title": "Vulve",
+    "medium": "Wood",
+    "image": "/gallery/bois/Vulve.jpg",
+    "description": "Wood sculpture"
+  },
+  {
+    "id": "artwork-3",
+    "title": "Sceptre",
+    "medium": "Wood",
+    "image": "/gallery/bois/Sceptre.jpg",
+    "description": "Wood sculpture"
+  },
+  {
+    "id": "artwork-4",
+    "title": "Morille Esculenta",
+    "medium": "Bronze",
+    "image": "/gallery/bronze/Morille-Esculenta.jpg",
+    "description": "Bronze sculpture"
+  },
+  {
+    "id": "artwork-5",
+    "title": "Morille XXL",
+    "medium": "Bronze",
+    "image": "/gallery/bronze/Morille-XXL.jpg",
+    "description": "Bronze sculpture"
+  },
+  {
+    "id": "artwork-6",
+    "title": "Chillon en Feu en Musique",
+    "medium": "Lithography",
+    "image": "/gallery/litho/Chillon-en-feu-en-musique-35x30cm-300-tirages.jpg",
+    "description": "35x30cm, 300 tirages"
+  },
+  {
+    "id": "artwork-7",
+    "title": "Bridge Towers London",
+    "medium": "Lithography",
+    "image": "/gallery/litho/Bridge-Towers-London-26x26cm-100-tirages.jpg",
+    "description": "26x26cm, 100 tirages"
+  },
+  {
+    "id": "artwork-8",
+    "title": "25 Ans Sion Expo",
+    "medium": "Lithography",
+    "image": "/gallery/litho/25-ans-sion-expo-40x32cm-150tirages.jpg",
+    "description": "40x32cm, 150 tirages"
+  },
+  {
+    "title": "Couronne",
+    "medium": "Wood",
+    "image": "/gallery/bois/Couronne.jpg",
+    "description": ""
+  },
+  {
+    "title": "Anneau",
+    "medium": "Wood",
+    "image": "/gallery/bois/Anneau.jpg",
+    "description": ""
+  },
+  {
+    "title": "Les Muets",
+    "medium": "Wood",
+    "image": "/gallery/bois/Les-muets.jpg",
+    "description": ""
+  },
+  {
+    "title": "Les Faces du Singe",
+    "medium": "Wood",
+    "image": "/gallery/bois/Les-faces-du-singe.jpg",
+    "description": ""
+  },
+  {
+    "title": "Fada",
+    "medium": "Wood",
+    "image": "/gallery/bois/Fada.jpg",
+    "description": ""
+  },
+  {
+    "title": "Tamas",
+    "medium": "Wood",
+    "image": "/gallery/bois/Tamas.jpg",
+    "description": ""
+  },
+  {
+    "title": "Morchella Esculenta",
+    "medium": "Wood",
+    "image": "/gallery/bois/Morchella-esculenta.jpg",
+    "description": ""
+  },
+  {
+    "title": "Morchella Conica",
+    "medium": "Wood",
+    "image": "/gallery/bois/Morchella-conica.jpg",
+    "description": ""
+  },
+  {
+    "title": "Incarom",
+    "medium": "Wood",
+    "image": "/gallery/bois/Incarom.jpg",
+    "description": ""
+  },
+  {
+    "title": "Amour",
+    "medium": "Wood",
+    "image": "/gallery/bois/amour.jpg",
+    "description": ""
+  },
+  {
+    "title": "Coq",
+    "medium": "Wood",
+    "image": "/gallery/bois/coq.jpg",
+    "description": ""
+  },
+  {
+    "title": "Photo 029",
+    "medium": "Bronze",
+    "image": "/gallery/bronze/Photo-029-450x600.png",
+    "description": ""
+  },
+  {
+    "title": "Morille Conique",
+    "medium": "Bronze",
+    "image": "/gallery/bronze/morille-conique-663x600.jpg",
+    "description": ""
+  },
+  {
+    "title": "Morille Ronde",
+    "medium": "Bronze",
+    "image": "/gallery/bronze/morille-ronde-376x600.jpg",
+    "description": ""
+  },
+  {
+    "title": "Morille Ronde B1",
+    "medium": "Bronze",
+    "image": "/gallery/bronze/morillerondeb1-478x600.jpg",
+    "description": ""
+  },
+  {
+    "title": "Baiser de la Morille",
+    "medium": "Bronze",
+    "image": "/gallery/bronze/Baiserdelamorille.jpg",
+    "description": ""
+  },
+  {
+    "title": "Doris",
+    "medium": "Bronze",
+    "image": "/gallery/bronze/doris-478x600.jpg",
+    "description": ""
+  },
+  {
+    "title": "Vache 2",
+    "medium": "Bronze",
+    "image": "/gallery/bronze/vache2-663x600.jpg",
+    "description": ""
+  },
+  {
+    "title": "Crapaud Noir",
+    "medium": "Bronze",
+    "image": "/gallery/bronze/crapaudnoir1-800x596.jpg",
+    "description": ""
+  },
+  {
+    "title": "Janus",
+    "medium": "Bronze",
+    "image": "/gallery/bronze/janus1-558x600.jpg",
+    "description": ""
+  },
+  {
+    "title": "Kenyane",
+    "medium": "Bronze",
+    "image": "/gallery/bronze/kenyane-663x600.jpg",
+    "description": ""
+  },
+  {
+    "title": "Poulet 2011",
+    "medium": "Bronze",
+    "image": "/gallery/bronze/poulet2011.jpg",
+    "description": ""
+  },
+  {
+    "title": "Nonchalance",
+    "medium": "Bronze",
+    "image": "/gallery/bronze/nonchalance.jpg",
+    "description": ""
+  },
+  {
+    "title": "Evolution",
+    "medium": "Bronze",
+    "image": "/gallery/bronze/evolution.jpg",
+    "description": ""
+  },
+  {
+    "title": "Horizon",
+    "medium": "Bronze",
+    "image": "/gallery/bronze/horizon.jpg",
+    "description": ""
+  },
+  {
+    "title": "Carlos",
+    "medium": "Bronze",
+    "image": "/gallery/bronze/carlos1-450x600.jpg",
+    "description": ""
+  },
+  {
+    "title": "Carlos Patine",
+    "medium": "Bronze",
+    "image": "/gallery/bronze/carlospatine-463x600.jpg",
+    "description": ""
+  },
+  {
+    "title": "Cour des Miracles",
+    "medium": "Lithography",
+    "image": "/gallery/litho/cour-des-miracles-30x25cm-100tirages.jpg",
+    "description": "30x25cm, 100 tirages"
+  },
+  {
+    "title": "Les Hommes du Commissaire",
+    "medium": "Lithography",
+    "image": "/gallery/litho/les-hommes-du-commissaire-28x24cm-100tirages.jpg",
+    "description": "28x24cm, 100 tirages"
+  },
+  {
+    "title": "Vaches Ornans",
+    "medium": "Lithography",
+    "image": "/gallery/litho/Vaches-Ornans-24x30cm-50-tirages.jpg",
+    "description": "24x30cm, 50 tirages"
+  },
+  {
+    "title": "Le Marché de Montreux",
+    "medium": "Lithography",
+    "image": "/gallery/litho/Le-Marche-de-Montreux-23-x-30-cm-2004.jpg",
+    "description": "23x30cm, 2004"
+  },
+  {
+    "title": "Lithographie de Noël",
+    "medium": "Lithography",
+    "image": "/gallery/litho/lithonoel2009-300x218.jpg",
+    "description": "2009"
+  },
+  {
+    "title": "Eugénie",
+    "medium": "Lithography",
+    "image": "/gallery/litho/Eugenie-297x300.jpg",
+    "description": ""
+  },
+  {
+    "title": "Martine",
+    "medium": "Lithography",
+    "image": "/gallery/litho/Martine-296x300.jpg",
+    "description": ""
+  },
+  {
+    "title": "Turtemagne",
+    "medium": "Lithography",
+    "image": "/gallery/litho/turtemagne-249x300.gif",
+    "description": ""
+  },
+  {
+    "title": "Banlieue de Siem Reap",
+    "medium": "Painting",
+    "image": "/gallery/asie/Banlieue-de-Siem-Reap-gouache-sur-carton-27-x-37-cm-2013.jpg",
+    "description": "Gouache sur carton, 27 x 37 cm, 2013"
+  },
+  {
+    "title": "Barbecue in Koh Samed",
+    "medium": "Painting",
+    "image": "/gallery/asie/Barbecue-in-Koh-Samed-gouache-sur-carton-27-x-37-cm-2013.jpg",
+    "description": "Gouache sur carton, 27 x 37 cm, 2013"
+  },
+  {
+    "title": "Depart pour la peche",
+    "medium": "Painting",
+    "image": "/gallery/asie/Depart-pour-la-peche-gouache-sur-carton-27-x-37-cm-2013.jpg",
+    "description": "Gouache sur carton, 27 x 37 cm, 2013"
+  },
+  {
+    "title": "Fishing",
+    "medium": "Painting",
+    "image": "/gallery/asie/Fishing-gouache-sur-carton-37-x-27-cm-2013.jpg",
+    "description": "Gouache sur carton, 37 x 27 cm, 2013"
+  },
+  {
+    "title": "Koh Samed",
+    "medium": "Painting",
+    "image": "/gallery/asie/Koh-Samed-gouache-sur-carton-37-x-27-cm-2013.jpg",
+    "description": "Gouache sur carton, 37 x 27 cm, 2013"
+  },
+  {
+    "title": "Le pont de la riviere Pai",
+    "medium": "Painting",
+    "image": "/gallery/asie/Le-pont-de-la-riviere-Pai-gouache-sur-carton-34-x-42-cm-2013.jpg",
+    "description": "Gouache sur carton, 34 x 42 cm, 2013"
+  },
+  {
+    "title": "Lezard",
+    "medium": "Painting",
+    "image": "/gallery/asie/Lezard-gouache-sur-carton-22-x-22-cm-2013.jpg",
+    "description": "Gouache sur carton, 22 x 22 cm, 2013"
+  },
+  {
+    "title": "Morning",
+    "medium": "Painting",
+    "image": "/gallery/asie/Morning-gouache-sur-carton-25-x-21-cm-2013.jpg",
+    "description": "Gouache sur carton, 25 x 21 cm, 2013"
+  },
+  {
+    "title": "Papoom",
+    "medium": "Painting",
+    "image": "/gallery/asie/Papoom-gouache-sur-carton-29-x-21-cm-2013.jpg",
+    "description": "Gouache sur carton, 29 x 21 cm, 2013"
+  },
+  {
+    "title": "Passerelle Siem Reap",
+    "medium": "Painting",
+    "image": "/gallery/asie/Passerelle-Siem-Reap-gouache-sur-carton-27-x-37-cm-2013.jpg",
+    "description": "Gouache sur carton, 27 x 37 cm, 2013"
+  },
+  {
+    "title": "Phnom Penh",
+    "medium": "Painting",
+    "image": "/gallery/asie/Phnom-Penh-gouache-sur-carton-31-x-46-cm-2013.jpg",
+    "description": "Gouache sur carton, 31 x 46 cm, 2013"
+  },
+  {
+    "title": "Ping river Chiang Mai",
+    "medium": "Painting",
+    "image": "/gallery/asie/Ping-river-Chiang-Mai-gouache-sur-carton-27-x-37-cm-2013.jpg",
+    "description": "Gouache sur carton, 27 x 37 cm, 2013"
+  },
+  {
+    "title": "Pursat",
+    "medium": "Painting",
+    "image": "/gallery/asie/Pursat-gouache-sur-carton-31-x-46-cm-2013.jpg",
+    "description": "Gouache sur carton, 31 x 46 cm, 2013"
+  },
+  {
+    "title": "Repos",
+    "medium": "Painting",
+    "image": "/gallery/asie/Repos-gouache-sur-carton-27-x-37-cm-2013.jpg",
+    "description": "Gouache sur carton, 27 x 37 cm, 2013"
+  },
+  {
+    "title": "Russian Pharang",
+    "medium": "Painting",
+    "image": "/gallery/asie/Russian-Pharang-gouache-sur-carton-25-x-24-cm-2013.jpg",
+    "description": "Gouache sur carton, 25 x 24 cm, 2013"
+  },
+  {
+    "title": "Sting ray",
+    "medium": "Painting",
+    "image": "/gallery/asie/Sting-ray-gouache-sur-carton-23-x-21-cm-2013.jpg",
+    "description": "Gouache sur carton, 23 x 21 cm, 2013"
+  },
+  {
+    "title": "Temple Siem Reap",
+    "medium": "Painting",
+    "image": "/gallery/asie/Temple-Siem-Reap-gouache-sur-carton-27-x-37-cm-2013.jpg",
+    "description": "Gouache sur carton, 27 x 37 cm, 2013"
+  },
+  {
+    "title": "Aberwrach Landeda",
+    "medium": "Painting",
+    "image": "/gallery/asturie/aberwrach-landeda-huilesurtoile80x100cm2011.jpg",
+    "description": "Huile sur toile, 80 x 100 cm, 2011"
+  },
+  {
+    "title": "Asturie Pêcheurs",
+    "medium": "Painting",
+    "image": "/gallery/asturie/asturiespecheurs-huilesurtoile35x29cm2011.jpg",
+    "description": "Huile sur toile, 35 x 29 cm, 2011"
+  },
+  {
+    "title": "Asturie Plage I",
+    "medium": "Painting",
+    "image": "/gallery/asturie/asturiesplage-huilesurtoile35x29cm2011.jpg",
+    "description": "Huile sur toile, 35 x 29 cm, 2011"
+  },
+  {
+    "title": "Asturie Plage II",
+    "medium": "Painting",
+    "image": "/gallery/asturie/asturiesplage-huilesurtoile38x46cm2011.jpg",
+    "description": "Huile sur toile, 38 x 46 cm, 2011"
+  },
+  {
+    "title": "Asturie Plage III",
+    "medium": "Painting",
+    "image": "/gallery/asturie/asturiesplage-huilesurtoile40x50cm2011.jpg",
+    "description": "Huile sur toile, 40 x 50 cm, 2011"
+  },
+  {
+    "title": "Asturie Plage IV",
+    "medium": "Painting",
+    "image": "/gallery/asturie/asturiesplage-huilesurtoile50x40cm2011.jpg",
+    "description": "Huile sur toile, 50 x 40 cm, 2011"
+  },
+  {
+    "title": "Site Ubatuba IV Brazil",
+    "medium": "Painting",
+    "image": "/gallery/brazil-2007/1asite-ubatuba-iv-brazil-acryl-huile-sur-toile-2007-100-x-100-cm.jpg",
+    "description": "Acryl huile sur toile, 100 x 100 cm, 2007"
+  },
+  {
+    "title": "Brazil",
+    "medium": "Painting",
+    "image": "/gallery/symbolisme/Brazil-huile-sur-toile-100-x-100-cm.jpg",
+    "description": "Huile sur toile, 100 x 100 cm"
+  },
+  {
+    "title": "Site Ubatuba II",
+    "medium": "Painting",
+    "image": "/gallery/brazil-2007/site-ubatuba-ii-huile-sur-toile-2007-50-x-70.jpg",
+    "description": "Huile sur toile, 50 x 70 cm, 2007"
+  },
+  {
+    "title": "Site Ubatuba III",
+    "medium": "Painting",
+    "image": "/gallery/brazil-2007/site-ubatuba-iii-brazil-acryl-sur-toile-2007-55-x-84.jpg",
+    "description": "Acryl sur toile, 55 x 84 cm, 2007"
+  },
+  {
+    "title": "Caprioli I",
+    "medium": "Painting",
+    "image": "/gallery/campania/1caprioli-50-x-50-cm-2002.jpg",
+    "description": "50 x 50 cm, 2002"
+  },
+  {
+    "title": "Fornace",
+    "medium": "Painting",
+    "image": "/gallery/campania/1fornace-40-x-40-cm-2002.jpg",
+    "description": "40 x 40 cm, 2002"
+  },
+  {
+    "title": "Caprioli II",
+    "medium": "Painting",
+    "image": "/gallery/campania/caprioli60x-70-cm2005-huile-sur-toile.jpg",
+    "description": "Huile sur toile, 60 x 70 cm, 2005"
+  },
+  {
+    "title": "La Spiaggia",
+    "medium": "Painting",
+    "image": "/gallery/campania/la-spiaggia-54x73cm2005-huile-sur-toile.jpg",
+    "description": "Huile sur toile, 54 x 73 cm, 2005"
+  },
+  {
+    "title": "La Torre",
+    "medium": "Painting",
+    "image": "/gallery/campania/la-torre-30-x-30-cm-2002.jpg",
+    "description": "30 x 30 cm, 2002"
+  },
+  {
+    "title": "Parasol",
+    "medium": "Painting",
+    "image": "/gallery/campania/parasol-54x73cm2005.jpg",
+    "description": "54 x 73 cm, 2005"
+  },
+  {
+    "title": "Gravière Lathion",
+    "medium": "Painting",
+    "image": "/gallery/caravane/gravierelathionbonsite100x82cm.jpg",
+    "description": "100 x 82 cm"
+  },
+  {
+    "title": "Pétanque",
+    "medium": "Painting",
+    "image": "/gallery/caravane/petanque-50-x-70.jpg",
+    "description": "50 x 70 cm"
+  },
+  {
+    "title": "PSI",
+    "medium": "Painting",
+    "image": "/gallery/caravane/psitex72cm.jpg",
+    "description": "72 cm"
+  },
+  {
+    "title": "Caravane 2010 I",
+    "medium": "Painting",
+    "image": "/gallery/caravane/siteacaravane201070x34cm2.png",
+    "description": "70 x 34 cm, 2010"
+  },
+  {
+    "title": "Caravane 2010 II",
+    "medium": "Painting",
+    "image": "/gallery/caravane/sitecaravane201045x55cm.jpg",
+    "description": "45 x 55 cm, 2010"
+  },
+  {
+    "title": "St-Léonard",
+    "medium": "Painting",
+    "image": "/gallery/caravane/st-leonard110-x-80.jpg",
+    "description": "110 x 80 cm"
+  },
+  {
+    "title": "Metro de London",
+    "medium": "Drawing",
+    "image": "/gallery/dessins/Metro-de-London-esquisse-encre-de-chine-18-x-10-cm-2004.jpg",
+    "description": "Esquisse encre de chine, 18 x 10 cm, 2004"
+  },
+  {
+    "title": "La Fête à Z",
+    "medium": "Painting",
+    "image": "/gallery/lutins/Lafeteaz.jpg",
+    "description": ""
+  },
+  {
+    "title": "Blanche-Neige",
+    "medium": "Painting",
+    "image": "/gallery/lutins/Blanche-Neige-gouache-sur-carton-25-x-36-cm-2001.jpg",
+    "description": "Gouache sur carton, 25 x 36 cm, 2001"
+  },
+  {
+    "title": "Atelier Lolo",
+    "medium": "Painting",
+    "image": "/gallery/lutins/atelier-lolo429-393.jpg",
+    "description": ""
+  },
+  {
+    "title": "Cave des Tilleuls",
+    "medium": "Painting",
+    "image": "/gallery/lutins/cave-tilleuls.jpg",
+    "description": ""
+  },
+  {
+    "title": "Rue de Conthey",
+    "medium": "Painting",
+    "image": "/gallery/lutins/copie-de-rue-de-conthey.jpg",
+    "description": ""
+  },
+  {
+    "title": "La Pieuvre",
+    "medium": "Painting",
+    "image": "/gallery/lutins/la-pieuvre488-600.jpg",
+    "description": ""
+  },
+  {
+    "title": "La Raclette",
+    "medium": "Painting",
+    "image": "/gallery/lutins/la-raclette.jpg",
+    "description": ""
+  },
+  {
+    "title": "L'Arche de Noé",
+    "medium": "Painting",
+    "image": "/gallery/lutins/larche-de-noe-gouache-sur-carton-41-x-36-cm-2001.jpg",
+    "description": "Gouache sur carton, 41 x 36 cm, 2001"
+  },
+  {
+    "title": "Le Concours de Pêche",
+    "medium": "Painting",
+    "image": "/gallery/lutins/le-concours-de-peche-site.jpg",
+    "description": ""
+  },
+  {
+    "title": "Hockenheim",
+    "medium": "Painting",
+    "image": "/gallery/lutins/site-hockenheim.jpg",
+    "description": ""
+  },
+  {
+    "title": "Riquewihr I",
+    "medium": "Painting",
+    "image": "/gallery/lutins/riquewihr28x22cm2011.jpg",
+    "description": "28 x 22 cm, 2011"
+  },
+  {
+    "title": "Riquewihr II",
+    "medium": "Painting",
+    "image": "/gallery/lutins/riquewihr128x22cm2011.jpg",
+    "description": "28 x 22 cm, 2011"
+  },
+  {
+    "title": "Autoportrait",
+    "medium": "Painting",
+    "image": "/gallery/monde-de-la-nuit/Autoportrait-huile-sur-toile-40-x-40-cm-2004.jpg",
+    "description": "Huile sur toile, 40 x 40 cm, 2004"
+  },
+  {
+    "title": "Cake",
+    "medium": "Painting",
+    "image": "/gallery/monde-de-la-nuit/Cake-huile-sur-pavatex-40-x-50-cm-2002.jpg",
+    "description": "Huile sur pavatex, 40 x 50 cm, 2002"
+  },
+  {
+    "title": "Carnaval",
+    "medium": "Painting",
+    "image": "/gallery/monde-de-la-nuit/carnaval-huile-sur-toile-50-x-40-cm-2003.jpg",
+    "description": "Huile sur toile, 50 x 40 cm, 2003"
+  },
+  {
+    "title": "Garbage",
+    "medium": "Painting",
+    "image": "/gallery/monde-de-la-nuit/Garbage-huile-sur-toile-38-x-55-cm-2002.jpg",
+    "description": "Huile sur toile, 38 x 55 cm, 2002"
+  },
+  {
+    "title": "Grands Crus",
+    "medium": "Painting",
+    "image": "/gallery/monde-de-la-nuit/grands-crus-huile-sur-carton-60-x-45-cm-2008.jpg",
+    "description": "Huile sur carton, 60 x 45 cm, 2008"
+  },
+  {
+    "title": "La Promenade du Canal",
+    "medium": "Painting",
+    "image": "/gallery/monde-de-la-nuit/La-promenade-du-Canal-huile-sur-pavatex-50-x-70-cm-2003.jpg",
+    "description": "Huile sur pavatex, 50 x 70 cm, 2003"
+  },
+  {
+    "title": "Pixies",
+    "medium": "Painting",
+    "image": "/gallery/monde-de-la-nuit/Pixies-huile-sur-toile-40-x-60-cm-2004.jpg",
+    "description": "Huile sur toile, 40 x 60 cm, 2004"
+  },
+  {
+    "title": "Tribute to Charles Bukowski",
+    "medium": "Drawing",
+    "image": "/gallery/monde-de-la-nuit/tribute-to-charles-bukowski-mixte-crayon-gouache-sur-carton-65-x-45-cm-1997.png",
+    "description": "Mixte crayon gouache sur carton, 65 x 45 cm, 1997"
+  },
+  {
+    "title": "Haut de Cry",
+    "medium": "Painting",
+    "image": "/gallery/mortiers/Haut-de-Cry-60-x-50-cm-2008.jpg",
+    "description": "60 x 50 cm, 2008"
+  },
+  {
+    "title": "Le Nom du Livre",
+    "medium": "Painting",
+    "image": "/gallery/mortiers/Le-nom-du-livre-mortier-sur-acryl-60-x-50-cm-2001.jpg",
+    "description": "Mortier sur acryl, 60 x 50 cm, 2001"
+  },
+  {
+    "title": "Le Pont des Soupirs",
+    "medium": "Painting",
+    "image": "/gallery/mortiers/Le-pont-des-soupirs-mortier-sur-acryl-60-x-50-cm-2001.JPG",
+    "description": "Mortier sur acryl, 60 x 50 cm, 2001"
+  },
+  {
+    "title": "Puissance 4",
+    "medium": "Painting",
+    "image": "/gallery/mortiers/Puissance-4-mortier-sur-acryl-50-x-60-cm-2001.jpg",
+    "description": "Mortier sur acryl, 50 x 60 cm, 2001"
+  },
+  {
+    "title": "Tour des Sorciers",
+    "medium": "Painting",
+    "image": "/gallery/mortiers/Tour-des-Sorciers-60-x-50-cm-2001.JPG",
+    "description": "60 x 50 cm, 2001"
+  },
+  {
+    "title": "Lac de Montorge en Hiver",
+    "medium": "Painting",
+    "image": "/gallery/paysages/Lac-de-Montorge-en-hiver-huile-sur-toile-100-x-120-cm-2004.jpg",
+    "description": "Huile sur toile, 100 x 120 cm, 2004"
+  },
+  {
+    "title": "Le Coteau",
+    "medium": "Painting",
+    "image": "/gallery/paysages/Le-coteau-gouache-sur-carton-26-x-32-cm-2007.jpg",
+    "description": "Gouache sur carton, 26 x 32 cm, 2007"
+  },
+  {
+    "title": "Les Virets",
+    "medium": "Painting",
+    "image": "/gallery/paysages/Les-Virets-huile-sur-toile-60-x-50-cm-2006.JPG",
+    "description": "Huile sur toile, 60 x 50 cm, 2006"
+  },
+  {
+    "title": "Tourbillon",
+    "medium": "Painting",
+    "image": "/gallery/paysages/Tourbillon-huile-sur-toile-50-x-40-2006.JPG",
+    "description": "Huile sur toile, 50 x 40 cm, 2006"
+  },
+  {
+    "title": "Bon",
+    "medium": "Painting",
+    "image": "/gallery/poiscaille/bon.jpg",
+    "description": ""
+  },
+  {
+    "title": "Brute",
+    "medium": "Painting",
+    "image": "/gallery/poiscaille/brute.jpg",
+    "description": ""
+  },
+  {
+    "title": "Truands",
+    "medium": "Painting",
+    "image": "/gallery/poiscaille/truands.jpg",
+    "description": ""
+  },
+  {
+    "title": "Résigné",
+    "medium": "Painting",
+    "image": "/gallery/poiscaille/resigne.jpg",
+    "description": ""
+  },
+  {
+    "title": "Fleur d'Artichaut",
+    "medium": "Painting",
+    "image": "/gallery/poiscaille/fleurartichaut.jpg",
+    "description": ""
+  },
+  {
+    "title": "La Balade des Crabes",
+    "medium": "Painting",
+    "image": "/gallery/poiscaille/la-balade-des-crabes.jpg",
+    "description": ""
+  },
+  {
+    "title": "Cochon Canada",
+    "medium": "Painting",
+    "image": "/gallery/quebec-2010/cochon-canada.jpg",
+    "description": ""
+  },
+  {
+    "title": "Orignal",
+    "medium": "Painting",
+    "image": "/gallery/quebec-2010/orignal.jpg",
+    "description": ""
+  },
+  {
+    "title": "Poisson Canada",
+    "medium": "Painting",
+    "image": "/gallery/quebec-2010/poisson-canada.jpg",
+    "description": ""
+  },
+  {
+    "title": "Leçon",
+    "medium": "Painting",
+    "image": "/gallery/relations/lecon.jpg",
+    "description": ""
+  },
+  {
+    "title": "Intrus",
+    "medium": "Painting",
+    "image": "/gallery/relations/intrus.jpg",
+    "description": ""
+  },
+  {
+    "title": "Oeuf",
+    "medium": "Painting",
+    "image": "/gallery/relations/oeuf.jpg",
+    "description": ""
+  },
+  {
+    "title": "Orgie",
+    "medium": "Painting",
+    "image": "/gallery/relations/orgie.jpg",
+    "description": ""
+  },
+  {
+    "title": "Politique",
+    "medium": "Painting",
+    "image": "/gallery/relations/politique.jpg",
+    "description": ""
+  },
+  {
+    "title": "Baiser I",
+    "medium": "Painting",
+    "image": "/gallery/relations/baiser.jpg",
+    "description": ""
+  },
+  {
+    "title": "Baiser II",
+    "medium": "Painting",
+    "image": "/gallery/relations/baiser2.jpg",
+    "description": ""
+  },
+  {
+    "title": "Léchage",
+    "medium": "Painting",
+    "image": "/gallery/relations/lechage.jpg",
+    "description": ""
+  },
+  {
+    "title": "Dame Printemps",
+    "medium": "Painting",
+    "image": "/gallery/symbolisme/Dame-printemps-Huile-sur-toile-110-x-81-cm-2004.png",
+    "description": "Huile sur toile, 110 x 81 cm, 2004"
+  },
+  {
+    "title": "Les Morilles",
+    "medium": "Painting",
+    "image": "/gallery/symbolisme/Les-morilles-huile-sur-pavatex-28-x-55-cm-2005.jpg",
+    "description": "Huile sur pavatex, 28 x 55 cm, 2005"
+  },
+  {
+    "title": "Un Monde Merveilleux",
+    "medium": "Painting",
+    "image": "/gallery/symbolisme/Un-monde-merveilleux-huile-sur-toile-135-x-125-cm-2002.jpg",
+    "description": "Huile sur toile, 135 x 125 cm, 2002"
+  },
+  {
+    "title": "Bébé Souche",
+    "medium": "Painting",
+    "image": "/gallery/symbolisme/bebe-souche-huile-sur-toile-2007-100-x-120-cm.jpg",
+    "description": "Huile sur toile, 100 x 120 cm, 2007"
+  },
+  {
+    "title": "Biomec II",
+    "medium": "Painting",
+    "image": "/gallery/vaches/biomec2-300x263.jpg",
+    "description": ""
+  },
+  {
+    "title": "Biomec I",
+    "medium": "Painting",
+    "image": "/gallery/vaches/biomec11-300x296.jpg",
+    "description": ""
+  },
+  {
+    "title": "Biomec",
+    "medium": "Painting",
+    "image": "/gallery/vaches/biomec.jpg",
+    "description": ""
+  },
+  {
+    "title": "Tourbillon",
+    "medium": "Painting",
+    "image": "/gallery/vaches/fab1tourbillon-294x300.jpg",
+    "description": ""
+  },
+  {
+    "title": "Sido",
+    "medium": "Painting",
+    "image": "/gallery/vaches/sido-300x299.jpg",
+    "description": ""
+  },
+  {
+    "title": "Vaches 2011",
+    "medium": "Painting",
+    "image": "/gallery/vaches/vaches24x45cm2011.png",
+    "description": "24 x 45 cm, 2011"
+  },
+  {
+    "title": "Doris",
+    "medium": "Painting",
+    "image": "/gallery/vaches/Doris-300x294.jpg",
+    "description": ""
+  },
+  {
+    "title": "Evelyne",
+    "medium": "Painting",
+    "image": "/gallery/vaches/Evelyne-272x300.jpg",
+    "description": ""
+  },
+  {
+    "title": "Micheline",
+    "medium": "Painting",
+    "image": "/gallery/vaches/Micheline-250x300.jpg",
+    "description": ""
+  }
+]
