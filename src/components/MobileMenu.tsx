@@ -1,5 +1,7 @@
 'use client'
 
+import Link from 'next/link'
+
 interface MobileMenuProps {
   isOpen: boolean;
   onClose: () => void;
@@ -15,7 +17,14 @@ export default function MobileMenu({ isOpen, onClose }: MobileMenuProps) {
         <button onClick={onClose} className="absolute top-4 right-4">Close</button>
         <nav className="mt-8">
           <ul className="space-y-4">
-            <li><a href="/">Home</a></li>
+            <li>
+              <Link
+                href="/"
+                className="block px-3 py-2 rounded-md text-base font-medium text-neutral-900 hover:text-neutral-600 hover:bg-neutral-100"
+              >
+                Accueil
+              </Link>
+            </li>
             <li><a href="/gallery">Gallery</a></li>
             <li><a href="/about">About</a></li>
             <li><a href="/contact">Contact</a></li>

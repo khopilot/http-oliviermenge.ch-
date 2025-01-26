@@ -1,5 +1,7 @@
 'use client'
 
+import Link from 'next/link'
+
 interface NavigationProps {
   onMenuClick: () => void;
 }
@@ -8,9 +10,9 @@ export default function Navigation({ onMenuClick }: NavigationProps) {
   return (
     <nav className="fixed top-0 left-0 right-0 z-50 bg-white/80 backdrop-blur-sm">
       <div className="container mx-auto px-4 py-4 flex justify-between items-center">
-        <a href="/" className="text-2xl font-cormorant font-medium">
+        <Link href="/" className="text-2xl font-cormorant font-medium">
           Olivier Menge
-        </a>
+        </Link>
         <button
           onClick={onMenuClick}
           className="p-2 hover:bg-gray-100 rounded-lg transition-colors"

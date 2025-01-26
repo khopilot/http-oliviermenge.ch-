@@ -4,6 +4,8 @@ import { useState } from 'react'
 import { Cormorant_Garamond, Montserrat } from "next/font/google";
 import MobileMenu from '@/components/MobileMenu'
 import "./globals.css";
+import Link from 'next/link'
+import Image from 'next/image'
 
 const cormorant = Cormorant_Garamond({
   variable: "--font-cormorant",
@@ -34,9 +36,17 @@ export default function RootLayout({
         <nav className="fixed top-0 w-full bg-white/90 backdrop-blur-sm z-50 border-b border-neutral-200">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="flex justify-between h-16 items-center">
-              <a href="/" className="font-cormorant text-2xl font-medium hover:text-neutral-600 transition-colors">
-                Olivier Menge
-              </a>
+              <div className="flex items-center">
+                <Link href="/" className="flex items-center">
+                  <Image
+                    src="/images/logo-arbre.png"
+                    alt="Logo"
+                    width={50}
+                    height={50}
+                    className="mr-2"
+                  />
+                </Link>
+              </div>
               <div className="hidden sm:block">
                 <div className="flex space-x-8 font-montserrat text-sm">
                   <a href="/gallery" className="hover:text-neutral-600 transition-colors">Gallery</a>
